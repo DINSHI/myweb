@@ -1,0 +1,12 @@
+html{
+    scroll-behavior: smooth;
+  }
+
+.viewheight{
+    height: 94vh;
+}
+.animated1{
+    animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+}
